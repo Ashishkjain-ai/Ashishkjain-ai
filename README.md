@@ -15,7 +15,6 @@ I design and deliver large-scale systems across:
 - **Full-stack engineering:** Node.js, Python, Java, React  
 - **Cloud-native platforms:** AWS, GCP, Azure  
 - **DevOps & Observability:** Prometheus, Grafana, OpenTelemetry  
-- **Time-Series Analysis & Automation**  
 - **Enterprise architecture & engineering culture leadership**
 
 I love writing clean code, solving deep technical problems, mentoring teams, and pushing engineering excellence through innovation, simplicity, and craftsmanship.
